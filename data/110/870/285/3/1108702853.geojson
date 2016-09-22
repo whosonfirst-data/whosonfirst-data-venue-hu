@@ -1,0 +1,76 @@
+{
+  "id": 1108702853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.202729,47.527679,19.202729,47.527679",
+    "geom:latitude":47.527679,
+    "geom:longitude":19.202729,
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "sg:address":"Felsomalom Street 25",
+    "sg:city":"Budapest",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1164",
+    "sg:tags":[
+        "live-broadcast",
+        "video-streaming"
+    ],
+    "sg:website":"http://www.myshowroom.tv",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901213,
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EUkXaWEa6poJ9Jfhr3TVR_47.527679_19.202729@1308163238"
+    },
+    "wof:country":"HU",
+    "wof:created":1474570887,
+    "wof:geomhash":"48c5d6347959d57effc93654970f187d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901213,
+            "region_id":85684881,
+            "venue_id":1108702853
+        }
+    ],
+    "wof:id":1108702853,
+    "wof:lastmodified":1474570887,
+    "wof:name":"MyShowroom.TV",
+    "wof:parent_id":85901213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live-broadcast",
+        "video-streaming"
+    ]
+},
+  "bbox": [
+    19.202729,
+    47.527679,
+    19.202729,
+    47.527679
+],
+  "geometry": {"coordinates":[19.202729,47.527679],"type":"Point"}
+}

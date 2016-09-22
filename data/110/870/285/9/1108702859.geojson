@@ -1,0 +1,80 @@
+{
+  "id": 1108702859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.026118,47.420458,19.026118,47.420458",
+    "geom:latitude":47.420458,
+    "geom:longitude":19.026118,
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "sg:address":"B\u00e9rkocsi utca 45",
+    "sg:city":"Budapest",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1222",
+    "sg:tags":[
+        "start-up",
+        "founding",
+        "business-index",
+        "jobs"
+    ],
+    "sg:website":"http://www.nessdex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901259,
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jh5is56QG7lRUyLE7YhYM_47.420458_19.026118@1308163239"
+    },
+    "wof:country":"HU",
+    "wof:created":1474570887,
+    "wof:geomhash":"3090bef81ae0bca90c9b9c2f6bc2168f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901259,
+            "region_id":85684881,
+            "venue_id":1108702859
+        }
+    ],
+    "wof:id":1108702859,
+    "wof:lastmodified":1474570887,
+    "wof:name":"NessDex",
+    "wof:parent_id":85901259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "start-up",
+        "founding",
+        "business-index",
+        "jobs"
+    ]
+},
+  "bbox": [
+    19.026118,
+    47.420458,
+    19.026118,
+    47.420458
+],
+  "geometry": {"coordinates":[19.026118,47.420458],"type":"Point"}
+}

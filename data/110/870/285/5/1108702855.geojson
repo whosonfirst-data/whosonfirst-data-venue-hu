@@ -1,0 +1,80 @@
+{
+  "id": 1108702855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.0284923,47.4953663,19.0284923,47.4953663",
+    "geom:latitude":47.495366,
+    "geom:longitude":19.028492,
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "sg:address":"Palya u. 9",
+    "sg:city":"Budapest",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1012",
+    "sg:tags":[
+        "travel",
+        "inspiration",
+        "seedcamp",
+        "seedcamp-2009"
+    ],
+    "sg:website":"http://www.joobili.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901235,
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IYdbjm6l5WKYbDg7D7yH4_47.495366_19.028492@1308163241"
+    },
+    "wof:country":"HU",
+    "wof:created":1474570887,
+    "wof:geomhash":"79a564856dd99f92c671bd04d6f02a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901235,
+            "region_id":85684881,
+            "venue_id":1108702855
+        }
+    ],
+    "wof:id":1108702855,
+    "wof:lastmodified":1474570887,
+    "wof:name":"Joobili",
+    "wof:parent_id":85901235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "travel",
+        "inspiration",
+        "seedcamp",
+        "seedcamp-2009"
+    ]
+},
+  "bbox": [
+    19.0284923,
+    47.4953663,
+    19.0284923,
+    47.4953663
+],
+  "geometry": {"coordinates":[19.0284923,47.4953663],"type":"Point"}
+}

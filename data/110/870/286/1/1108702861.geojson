@@ -1,0 +1,69 @@
+{
+  "id": 1108702861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.1126279,47.5253546,19.1126279,47.5253546",
+    "geom:latitude":47.525355,
+    "geom:longitude":19.112628,
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "sg:address":"99/b Gyarmat u.",
+    "sg:city":"Budapest",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"H-1147",
+    "sg:website":"http://www.intellio.eu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906427,
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19DUvjbbutcO5jbwGIC5EP_47.525355_19.112628@1308163242"
+    },
+    "wof:country":"HU",
+    "wof:created":1474570887,
+    "wof:geomhash":"05ecbb1df9b59065cfd0bd07b9fe06a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85906427,
+            "region_id":85684881,
+            "venue_id":1108702861
+        }
+    ],
+    "wof:id":1108702861,
+    "wof:lastmodified":1474570887,
+    "wof:name":"Intellio",
+    "wof:parent_id":85906427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1126279,
+    47.5253546,
+    19.1126279,
+    47.5253546
+],
+  "geometry": {"coordinates":[19.1126279,47.5253546],"type":"Point"}
+}
